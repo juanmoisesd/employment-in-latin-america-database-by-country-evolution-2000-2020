@@ -14,21 +14,16 @@ tags:
 
 # Employment in Latin America: Database by Country with Evolution 2000-2020 (every
 
-- **DOI:** [https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020](https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020)
-- **GitHub:** [juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020](https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020](https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020) | **GitHub:** [juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020](https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020/files/data.csv")
+# See https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020 for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Employment in Latin America: Database by Country with Evolut},year={2025},doi={https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020},url={https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020}}
 ```
