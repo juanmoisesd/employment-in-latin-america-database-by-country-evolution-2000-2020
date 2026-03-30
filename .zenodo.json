@@ -1,0 +1,34 @@
+{
+  "title": "Employment In Latin America Database By Country Evolution 2000 2020",
+  "description": "Open research dataset: Employment In Latin America Database By Country Evolution 2000 2020. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "latin america",
+    "database",
+    "open data",
+    "research",
+    "dataset"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/employment-in-latin-america-database-by-country-evolution-2000-2020",
+      "scheme": "url"
+    }
+  ]
+}
